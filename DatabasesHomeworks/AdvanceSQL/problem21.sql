@@ -1,0 +1,5 @@
+DELETE FROM Users
+WHERE GroupId = 3
+
+DELETE FROM Groups
+WHERE Id = 3

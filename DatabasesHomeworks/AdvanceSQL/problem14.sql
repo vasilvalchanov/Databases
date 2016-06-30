@@ -1,0 +1,1 @@
+SELECT Format(GETDATE(), 'dd.MM.yyyy HH:mm:ss:fff') as DateTime
